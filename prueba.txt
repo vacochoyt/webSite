@@ -1,1 +1,6 @@
 Hola Mundo
+if(valor==3){
+console.log("hola");
+}else{
+console.log("error");
+}
